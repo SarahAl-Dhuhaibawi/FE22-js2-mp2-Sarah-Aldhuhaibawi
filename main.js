@@ -1,4 +1,4 @@
-import { Tamagotchi } from "./modules/Tamagotchi.js";
+import { Tamagotchi } from "./modules/tamagotchi.js";
 
 document.querySelector("#add-tamagotchi").addEventListener("click", addTama);
 
